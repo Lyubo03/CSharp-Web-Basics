@@ -1,0 +1,13 @@
+D:\Programing flex\Web\WebServer\WebServer\bin\Debug\netcoreapp3.1\WebServer.exe
+D:\Programing flex\Web\WebServer\WebServer\bin\Debug\netcoreapp3.1\WebServer.deps.json
+D:\Programing flex\Web\WebServer\WebServer\bin\Debug\netcoreapp3.1\WebServer.runtimeconfig.json
+D:\Programing flex\Web\WebServer\WebServer\bin\Debug\netcoreapp3.1\WebServer.runtimeconfig.dev.json
+D:\Programing flex\Web\WebServer\WebServer\bin\Debug\netcoreapp3.1\WebServer.dll
+D:\Programing flex\Web\WebServer\WebServer\bin\Debug\netcoreapp3.1\WebServer.pdb
+D:\Programing flex\Web\WebServer\WebServer\obj\Debug\netcoreapp3.1\WebServer.csprojAssemblyReference.cache
+D:\Programing flex\Web\WebServer\WebServer\obj\Debug\netcoreapp3.1\WebServer.AssemblyInfoInputs.cache
+D:\Programing flex\Web\WebServer\WebServer\obj\Debug\netcoreapp3.1\WebServer.AssemblyInfo.cs
+D:\Programing flex\Web\WebServer\WebServer\obj\Debug\netcoreapp3.1\WebServer.csproj.CoreCompileInputs.cache
+D:\Programing flex\Web\WebServer\WebServer\obj\Debug\netcoreapp3.1\WebServer.dll
+D:\Programing flex\Web\WebServer\WebServer\obj\Debug\netcoreapp3.1\WebServer.pdb
+D:\Programing flex\Web\WebServer\WebServer\obj\Debug\netcoreapp3.1\WebServer.genruntimeconfig.cache

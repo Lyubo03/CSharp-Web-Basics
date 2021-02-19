@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "GhwYwB966YENJ3rrc2J9HH9woZiLx5yWcj34lNJT9nqNpaCYri9vi3+9xSgR3FcLjXIUfLIADBTyfLwKcXRkKA==",
+  "success": true,
+  "projectFilePath": "D:\\Programing flex\\Web\\SIS\\SIS.HTTP\\SIS.HTTP.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\lubos\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\lubos\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

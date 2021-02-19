@@ -1,0 +1,14 @@
+D:\Programing flex\Web\HttpRequester\HttpRequester\bin\Debug\netcoreapp3.1\HttpRequester.exe
+D:\Programing flex\Web\HttpRequester\HttpRequester\bin\Debug\netcoreapp3.1\HttpRequester.deps.json
+D:\Programing flex\Web\HttpRequester\HttpRequester\bin\Debug\netcoreapp3.1\HttpRequester.runtimeconfig.json
+D:\Programing flex\Web\HttpRequester\HttpRequester\bin\Debug\netcoreapp3.1\HttpRequester.runtimeconfig.dev.json
+D:\Programing flex\Web\HttpRequester\HttpRequester\bin\Debug\netcoreapp3.1\HttpRequester.dll
+D:\Programing flex\Web\HttpRequester\HttpRequester\bin\Debug\netcoreapp3.1\HttpRequester.pdb
+D:\Programing flex\Web\HttpRequester\HttpRequester\obj\Debug\netcoreapp3.1\HttpRequester.csprojAssemblyReference.cache
+D:\Programing flex\Web\HttpRequester\HttpRequester\obj\Debug\netcoreapp3.1\HttpRequester.AssemblyInfoInputs.cache
+D:\Programing flex\Web\HttpRequester\HttpRequester\obj\Debug\netcoreapp3.1\HttpRequester.AssemblyInfo.cs
+D:\Programing flex\Web\HttpRequester\HttpRequester\obj\Debug\netcoreapp3.1\HttpRequester.csproj.CoreCompileInputs.cache
+D:\Programing flex\Web\HttpRequester\HttpRequester\obj\Debug\netcoreapp3.1\HttpRequester.dll
+D:\Programing flex\Web\HttpRequester\HttpRequester\obj\Debug\netcoreapp3.1\HttpRequester.pdb
+D:\Programing flex\Web\HttpRequester\HttpRequester\obj\Debug\netcoreapp3.1\HttpRequester.genruntimeconfig.cache
+D:\Programing flex\Web\HttpRequester\HttpRequester\bin\Debug\netcoreapp3.1\Mustang.jpg

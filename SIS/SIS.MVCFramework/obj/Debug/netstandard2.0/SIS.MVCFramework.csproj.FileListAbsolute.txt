@@ -1,0 +1,12 @@
+D:\Programing flex\Web\SIS\SIS.MVCFramework\bin\Debug\netstandard2.0\SIS.MVCFramework.deps.json
+D:\Programing flex\Web\SIS\SIS.MVCFramework\bin\Debug\netstandard2.0\SIS.MVCFramework.dll
+D:\Programing flex\Web\SIS\SIS.MVCFramework\bin\Debug\netstandard2.0\SIS.MVCFramework.pdb
+D:\Programing flex\Web\SIS\SIS.MVCFramework\bin\Debug\netstandard2.0\SIS.HTTP.dll
+D:\Programing flex\Web\SIS\SIS.MVCFramework\bin\Debug\netstandard2.0\SIS.HTTP.pdb
+D:\Programing flex\Web\SIS\SIS.MVCFramework\obj\Debug\netstandard2.0\SIS.MVCFramework.csprojAssemblyReference.cache
+D:\Programing flex\Web\SIS\SIS.MVCFramework\obj\Debug\netstandard2.0\SIS.MVCFramework.AssemblyInfoInputs.cache
+D:\Programing flex\Web\SIS\SIS.MVCFramework\obj\Debug\netstandard2.0\SIS.MVCFramework.AssemblyInfo.cs
+D:\Programing flex\Web\SIS\SIS.MVCFramework\obj\Debug\netstandard2.0\SIS.MVCFramework.csproj.CoreCompileInputs.cache
+D:\Programing flex\Web\SIS\SIS.MVCFramework\obj\Debug\netstandard2.0\SIS.MVCFramework.csproj.CopyComplete
+D:\Programing flex\Web\SIS\SIS.MVCFramework\obj\Debug\netstandard2.0\SIS.MVCFramework.dll
+D:\Programing flex\Web\SIS\SIS.MVCFramework\obj\Debug\netstandard2.0\SIS.MVCFramework.pdb
